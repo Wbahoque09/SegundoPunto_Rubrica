@@ -14,3 +14,20 @@ header {
 main {
     padding: 20px;
 }
+
+.serie {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.serie img {
+    object-fit: cover;
+    width: 200px;
+    margin-right: 20px;
+}
+
+.serie-info h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
